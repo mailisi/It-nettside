@@ -24,9 +24,11 @@
 
 	Favorittfagene mine er kjemi og matte. På fritiden min er jeg glad i å gå tur. 
 
-	Jeg er også glad i å reise. </p>
+	Jeg er også glad i å reise. &#9992;
+	</p>
 
-    <p> Det var noen kjappe fakta om meg! </p>
+    <p> Det var noen kjappe fakta om meg &#10004;
+    </p>
 
     <p> Ha en fin dag videre! </p>
 
