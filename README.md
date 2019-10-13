@@ -16,7 +16,7 @@
 
 <body>
 
-	<p> <h3> Hei, hei! </h3> </p>
+	<p> <h1> Hei, hei! </h1> </p>
 
 	<p>           </p>
 
@@ -26,7 +26,7 @@
 
 	Jeg er også glad i å reise. </p>
 
-    <p> Det var noen kjappe fakta om meg :-) </p>
+    <p> Det var noen kjappe fakta om meg! </p>
 
     <p> Ha en fin dag videre! </p>
 
